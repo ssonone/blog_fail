@@ -3,8 +3,8 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-# permalink:        pretty
-# relative_permalinks: true
+permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            Hyde
@@ -17,10 +17,10 @@ baseurl: "/blog_fail" # the subpath of your site, e.g. /blog
 #   name:           'Mark Otto'
 #   url:            https://twitter.com/mdo
 
-# paginate:         5
+paginate:         5
 
 # Custom vars
-# version:          2.1.0
+version:          2.1.0
 
-# github:
-#   repo:           https://github.com/poole/hyde
+github:
+  repo:           https://github.com/poole/hyde
